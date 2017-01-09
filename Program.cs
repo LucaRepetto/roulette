@@ -23,7 +23,6 @@ namespace Roulette
             Console.Clear();
 
 
-
             int balance = 100;
             var rouletteresult = "This is your first game.";
 
